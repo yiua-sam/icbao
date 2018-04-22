@@ -1,6 +1,6 @@
 # icbao
 
-> Ic Bao website
+> Ic Bao website in Vue
 
 ## Build Setup
 
